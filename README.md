@@ -11,3 +11,9 @@ Aim: Design and implement a C program to find the Minimum Cost Spanning Tree (MS
 
 Program 2: Prim's Algorithm
 Aim: Design and implement a C program to find the Minimum Cost Spanning Tree (MST) of a connected undirected graph using Prim's Algorithm.
+
+Program 3(a): Floyd's Algorithm
+Aim: Design and implement a C program to solve the All-Pairs Shortest Paths problem using Floyd's Algorithm.
+
+Program 3(b): Warshall's Algorithm
+Aim: Design and implement a C program to find the transitive closure of a graph using Warshall's Algorithm.
