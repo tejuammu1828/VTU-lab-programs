@@ -17,3 +17,30 @@ Aim: Design and implement a C program to solve the All-Pairs Shortest Paths prob
 
 Program 3(b): Warshall's Algorithm
 Aim: Design and implement a C program to find the transitive closure of a graph using Warshall's Algorithm.
+
+Program 4: Dijkstra's Algorithm
+Aim: Design and implement a C program to find the shortest paths from a given vertex in a weighted connected graph to all other vertices using Dijkstra's Algorithm.
+
+Program 5: Topological Ordering
+Aim: Design and implement a C program to obtain the Topological Ordering of vertices in a given directed graph.
+
+Program 6: 0/1 Knapsack using Dynamic Programming
+Aim: Design and implement a C program to solve the 0/1 Knapsack problem using the Dynamic Programming method.
+
+Program 7: Discrete and Continuous Knapsack using Greedy Approximation
+Aim: Design and implement a C program to solve the Discrete Knapsack and Continuous Knapsack problems using the Greedy Approximation method.
+
+Program 8: Sum of Subsets
+Aim: Design and implement a C program to find all subsets of a given set whose sum is equal to the given value using Backtracking.
+
+Program 9: Selection Sort
+Aim: Design and implement a C program to sort a given set of n integer elements using Selection Sort and compute its time complexity.
+
+Program 10: Quick Sort
+Aim: Design and implement a C program to sort a given set of n integer elements using Quick Sort and compute its time complexity.
+
+Program 11: Merge Sort
+Aim: Design and implement a C program to sort a given set of n integer elements using Merge Sort and compute its time complexity.
+
+Program 12: N-Queens Problem
+Aim: Design and implement a C program to solve the N-Queens problem using Backtracking.
